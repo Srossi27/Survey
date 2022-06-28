@@ -1,0 +1,43 @@
+*   {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ ul li {
+    display: inline; 
+    text-decoration-color: 
+
+ }
+
+ ul li a {
+    color: black ;
+ }
+
+ .bars {
+    background-color: rgba(211, 175, 13, 0.9);
+    padding: 10px;
+    margin: 0;
+ }
+
+ .header {
+    background-color: black;
+ }
+
+ h1 {
+    text-align: center;
+    
+ }
+
+ footer {
+    text-align: right;
+    background-color: rgba(211, 175, 13, 0.9);
+    padding: 20px 10px;
+    font-weight: bolder;
+    
+ }
+
+ h2 {
+    display: inlne;
+    text-align:left;
+ }
